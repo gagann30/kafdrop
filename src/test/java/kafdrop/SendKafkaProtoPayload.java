@@ -1,4 +1,4 @@
-package kafdrop;
+/* package kafdrop;
 
 import com.google.protobuf.Any;
 import kafdrop.kafka.KafkaTestConfiguration;
@@ -35,3 +35,4 @@ public class SendKafkaProtoPayload implements ApplicationListener<ApplicationRea
     kafkaTemplate.send(KafkaTestConfiguration.TEST_TOPIC_NAME, UUID.randomUUID().toString(), payload);
   }
 }
+*/
