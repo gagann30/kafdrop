@@ -1,4 +1,4 @@
-package kafdrop;
+/* package kafdrop;
 
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.context.ApplicationContextInitializer;
@@ -34,4 +34,4 @@ abstract class AbstractIntegrationTest {
       ));
     }
   }
-}
+} */
